@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=TH, ST=PD, L=RY, O=Mahidol, OU=edit, CN=AA/name=EasyRSA/emailAddress=Pongsakorn.dec@gmail.com
+        Validity
+            Not Before: Nov  9 08:54:02 2017 GMT
+            Not After : Nov  7 08:54:02 2027 GMT
+        Subject: C=US, ST=CA, L=SanFrancisco, O=Fort-Funston, OU=MyOrganizationalUnit, CN=server/name=EasyRSA/emailAddress=Pongsakorn.dec@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ba:35:ab:21:3d:ec:93:79:61:dc:25:3b:91:91:
+                    69:8e:50:ae:0b:98:22:f9:41:46:ac:0b:7b:e8:b4:
+                    71:d6:63:89:68:34:b2:4f:7e:8c:94:6b:ef:bc:77:
+                    47:69:0b:62:20:d3:e4:65:df:ec:3a:5a:0b:06:e0:
+                    93:80:1a:d5:92:0c:d5:94:d0:16:1c:6d:ca:0a:99:
+                    98:85:45:54:61:f4:37:90:e6:99:cd:ed:60:b5:bb:
+                    1e:ba:ce:5e:2b:53:9d:59:dd:51:be:be:db:c7:55:
+                    df:61:36:c7:c4:60:de:f5:3d:2f:97:d8:69:fa:d4:
+                    fb:bd:ab:39:f1:4c:dc:cd:c7:7d:46:64:9f:b8:ac:
+                    71:9e:40:36:ef:54:a9:20:df:1a:f0:37:cd:6a:1f:
+                    50:9d:79:41:d8:10:d3:2e:b0:cf:4e:f1:f1:c3:e8:
+                    c5:ea:30:76:ad:47:d2:3f:6b:8f:3c:5e:fd:54:4e:
+                    f9:59:87:2e:5b:84:ef:6d:fd:59:45:c9:de:d9:c5:
+                    63:42:9e:dd:02:65:de:b0:e7:d4:e2:dd:45:06:93:
+                    7a:41:70:e9:d1:8f:5d:c8:bc:06:11:06:38:1a:02:
+                    5d:17:f3:c0:3e:3a:56:d6:65:a0:85:d6:29:f5:0d:
+                    4f:45:8d:88:6b:e9:6c:ab:88:36:18:1b:bf:49:15:
+                    e3:8b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                C7:4C:BE:8D:F0:13:6C:C3:BB:CB:38:40:97:83:2A:07:02:78:BB:0F
+            X509v3 Authority Key Identifier: 
+                keyid:F1:C6:7B:E9:37:4D:A6:D3:35:D5:A6:F2:1B:3E:EE:9F:96:65:0C:22
+                DirName:/C=TH/ST=PD/L=RY/O=Mahidol/OU=edit/CN=AA/name=EasyRSA/emailAddress=Pongsakorn.dec@gmail.com
+                serial:BF:6D:03:2D:64:F0:F5:7A
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+         01:39:41:f8:44:79:e8:50:00:97:ad:f1:1a:96:94:fd:e1:df:
+         bd:de:b3:35:66:fd:90:57:09:f2:c8:17:19:6f:fb:2c:d7:69:
+         63:93:8e:c8:32:12:61:5f:93:8f:5f:d1:17:d7:b7:a7:87:63:
+         43:e1:b3:f1:80:f3:24:c7:c3:3a:54:7f:87:23:0e:47:16:54:
+         ef:8f:dc:45:e7:8b:90:ec:53:cb:28:aa:d7:c5:51:4f:c8:1f:
+         2b:4b:7b:f0:8e:5e:c3:19:48:50:bb:dc:61:17:97:7f:62:7d:
+         8b:44:96:d2:51:88:d0:25:23:18:d2:8b:81:13:6b:63:16:2c:
+         47:77:b2:26:2e:1e:c8:e0:97:7e:79:ba:c5:40:f3:a0:05:c6:
+         8d:82:d1:5f:e8:75:97:e8:e3:a3:4f:65:c4:29:c9:cf:93:4f:
+         1c:32:25:e5:93:89:47:05:51:f9:6b:10:c0:6c:0c:1d:e3:b0:
+         84:32:27:6f:32:9d:d0:de:2c:29:19:7f:ce:db:cb:a7:c9:68:
+         55:07:f6:2a:5f:98:c9:da:28:57:4e:5a:52:8e:32:22:ca:5c:
+         93:88:a0:c4:5e:91:bd:2e:c7:d8:a1:5e:ed:49:ae:6c:0e:97:
+         23:f5:1b:85:f6:f3:ab:d5:0d:d7:dc:33:9b:59:1b:21:bc:15:
+         39:b9:38:22
+-----BEGIN CERTIFICATE-----
+MIIFIzCCBAugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBkDELMAkGA1UEBhMCVEgx
+CzAJBgNVBAgTAlBEMQswCQYDVQQHEwJSWTEQMA4GA1UEChMHTWFoaWRvbDENMAsG
+A1UECxMEZWRpdDELMAkGA1UEAxMCQUExEDAOBgNVBCkTB0Vhc3lSU0ExJzAlBgkq
+hkiG9w0BCQEWGFBvbmdzYWtvcm4uZGVjQGdtYWlsLmNvbTAeFw0xNzExMDkwODU0
+MDJaFw0yNzExMDcwODU0MDJaMIGzMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0Ex
+FTATBgNVBAcTDFNhbkZyYW5jaXNjbzEVMBMGA1UEChMMRm9ydC1GdW5zdG9uMR0w
+GwYDVQQLExRNeU9yZ2FuaXphdGlvbmFsVW5pdDEPMA0GA1UEAxMGc2VydmVyMRAw
+DgYDVQQpEwdFYXN5UlNBMScwJQYJKoZIhvcNAQkBFhhQb25nc2Frb3JuLmRlY0Bn
+bWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC6NashPeyT
+eWHcJTuRkWmOUK4LmCL5QUasC3votHHWY4loNLJPfoyUa++8d0dpC2Ig0+Rl3+w6
+WgsG4JOAGtWSDNWU0BYcbcoKmZiFRVRh9DeQ5pnN7WC1ux66zl4rU51Z3VG+vtvH
+Vd9hNsfEYN71PS+X2Gn61Pu9qznxTNzNx31GZJ+4rHGeQDbvVKkg3xrwN81qH1Cd
+eUHYENMusM9O8fHD6MXqMHatR9I/a488Xv1UTvlZhy5bhO9t/VlFyd7ZxWNCnt0C
+Zd6w59Ti3UUGk3pBcOnRj13IvAYRBjgaAl0X88A+OlbWZaCF1in1DU9FjYhr6Wyr
+iDYYG79JFeOLAgMBAAGjggFhMIIBXTAJBgNVHRMEAjAAMBEGCWCGSAGG+EIBAQQE
+AwIGQDA0BglghkgBhvhCAQ0EJxYlRWFzeS1SU0EgR2VuZXJhdGVkIFNlcnZlciBD
+ZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUx0y+jfATbMO7yzhAl4MqBwJ4uw8wgcUGA1Ud
+IwSBvTCBuoAU8cZ76TdNptM11abyGz7un5ZlDCKhgZakgZMwgZAxCzAJBgNVBAYT
+AlRIMQswCQYDVQQIEwJQRDELMAkGA1UEBxMCUlkxEDAOBgNVBAoTB01haGlkb2wx
+DTALBgNVBAsTBGVkaXQxCzAJBgNVBAMTAkFBMRAwDgYDVQQpEwdFYXN5UlNBMScw
+JQYJKoZIhvcNAQkBFhhQb25nc2Frb3JuLmRlY0BnbWFpbC5jb22CCQC/bQMtZPD1
+ejATBgNVHSUEDDAKBggrBgEFBQcDATALBgNVHQ8EBAMCBaAwDQYJKoZIhvcNAQEL
+BQADggEBAAE5QfhEeehQAJet8RqWlP3h373eszVm/ZBXCfLIFxlv+yzXaWOTjsgy
+EmFfk49f0RfXt6eHY0Phs/GA8yTHwzpUf4cjDkcWVO+P3EXni5DsU8soqtfFUU/I
+HytLe/COXsMZSFC73GEXl39ifYtEltJRiNAlIxjSi4ETa2MWLEd3siYuHsjgl355
+usVA86AFxo2C0V/odZfo46NPZcQpyc+TTxwyJeWTiUcFUflrEMBsDB3jsIQyJ28y
+ndDeLCkZf87by6fJaFUH9ipfmMnaKFdOWlKOMiLKXJOIoMRekb0ux9ihXu1JrmwO
+lyP1G4X286vVDdfcM5tZGyG8FTm5OCI=
+-----END CERTIFICATE-----
